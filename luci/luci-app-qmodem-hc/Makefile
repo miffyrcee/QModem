@@ -1,7 +1,7 @@
 # Copyright (C) 2024 Tom <fjrcn@outlook.com>
 # This is free software, licensed under the GNU General Public License v3.
 
-include $(TOPDIR)/rules.mk 
+include $(TOPDIR)/rules.mk  
 
 # Include unified version
 include ../../version.mk
